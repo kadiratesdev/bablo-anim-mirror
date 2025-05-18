@@ -20,8 +20,8 @@ Before using the script, you need to replace the remote URLs in the code with yo
    - Replace `https://assets.babloresources.com/animmenu/animations/` with `your-domain.com/index.php?url=`
 
 For example, if your domain is `example.com`, the URLs should be:
-- `https://example.com/index.php?url=` for previews
-- `https://example.com/index.php?url=` for animations
+- `https://your-domain.com/index.php?url=` for previews
+- `https://your-domain.com/index.php?url=` for animations
 
 ## Installation
 
@@ -41,24 +41,24 @@ The script supports the following URL formats:
 
 1. For animation files:
 ```
-http://localhost/index.php?url=emote_name.webp
+http://your-domain.com/index.php?url=emote_name.webp
 ```
 
 2. For preview files:
 ```
-http://localhost/index.php?url=emote_name_preview.webp
+http://your-domain.com/index.php?url=emote_name_preview.webp
 ```
 
 ### Examples
 
 - View animation:
   ```
-  http://localhost/index.php?url=wposh2.webp
+  http://your-domain.com/index.php?url=wposh2.webp
   ```
 
 - View preview:
   ```
-  http://localhost/index.php?url=wposh2_preview.webp
+  http://your-domain.com/index.php?url=wposh2_preview.webp
   ```
 
 ## How It Works
