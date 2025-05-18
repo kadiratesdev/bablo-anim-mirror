@@ -1,6 +1,6 @@
 # Animation Proxy Service
 
-This script is a proxy service that caches and serves animation and preview files from a remote server locally. It is designed to work on XAMPP.
+This script is a proxy service that caches and serves animation and preview files from a remote server locally.
 
 ## Features
 
